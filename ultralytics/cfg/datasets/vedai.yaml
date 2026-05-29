@@ -1,0 +1,18 @@
+path: /data/datasets/VEDAI
+
+# 训练
+train: images
+val: images
+test: images
+
+
+names:
+  0: Car
+  1: Truck
+  2: Tractor
+  3: Camping Car
+  4: Van
+  5: Pickup
+  6: Boat
+  7: Plane
+  8: Other

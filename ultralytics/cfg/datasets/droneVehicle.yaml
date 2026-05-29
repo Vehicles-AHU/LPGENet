@@ -1,0 +1,14 @@
+path: /data/datasets/DroneVehicle
+
+# 训练
+train: images/train  
+val: images/val  
+test: images/test
+
+
+names:
+  0: feright_car
+  1: car
+  2: truck
+  3: bus
+  4: van
